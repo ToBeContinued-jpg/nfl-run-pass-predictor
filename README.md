@@ -7,7 +7,7 @@ game situation.
 
 ## Live Application
 
-[The Streamlit application link will be added here after deployment.](https://nfl-run-pass-predictor-dneybgbmkdqb8bzhyatxjp.streamlit.app/)
+[The Streamlit application link.](https://nfl-run-pass-predictor-dneybgbmkdqb8bzhyatxjp.streamlit.app/)
 
 ## Project Question
 
